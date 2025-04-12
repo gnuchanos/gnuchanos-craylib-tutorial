@@ -1,3 +1,4 @@
+```
 #include <raylib.h>
 #include <stdbool.h>
 #include <stdio.h>
@@ -253,3 +254,5 @@ int main(void) {
 	CloseWindow();
     return 0;
 }
+
+```
